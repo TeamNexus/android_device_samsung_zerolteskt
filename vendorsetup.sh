@@ -20,3 +20,4 @@ add_lunch_combo gzosp_zerolteskt-userdebug
 add_lunch_combo lineage_zerolteskt-userdebug
 add_lunch_combo nexus_zerolteskt-userdebug
 add_lunch_combo omni_zerolteskt-userdebug
+add_lunch_combo rr_zerolteskt-userdebug
